@@ -1,1 +1,1 @@
-package Lock By Ghost OPhttps://heroku.com/deploy?template=https://github.com/Chiru63019/cc-killer-bot
+package Lock By Ghost <a href="https://heroku.com/deploy?template=https://github.com/Chiru63019/cc-killer-bot"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku Button"></a>
